@@ -4,6 +4,8 @@ Not intended for production use. It is an example module.
 
 It is just for showing how to create a publish module in Terraform Registry.
 
+You must use your own keyname.
+
 Usage:
 
 ```hcl
